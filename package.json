@@ -1,0 +1,17 @@
+{
+  "name": "skyforge-flightsim",
+  "version": "1.0.0",
+  "description": "SkyForge — 亚洲机场大圆航线 3D 飞行观看站 (flightsim.jackdu.cloud)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.2"
+  },
+  "devDependencies": {
+    "cesium": "^1.145.0"
+  }
+}
